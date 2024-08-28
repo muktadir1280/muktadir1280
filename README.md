@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack web development**
 
-- 💬 Ask me about **html, css, bootstrap, tailwind css, javascript**
+- 💬 Ask me about **HTML, CSS, tailwind CSS, bootstrap, javascript**
 
 - 📫 How to reach me **muktadir1280@gmail.com**
 
