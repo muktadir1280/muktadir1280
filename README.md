@@ -32,14 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muktadir1280&show_icons=true&locale=en" alt="muktadir1280" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muktadir1280&" alt="muktadir1280" /></p>
-
-![snake gif](https://github.com/muktadir1280/muktadir1280/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
-
-
-
-
-
