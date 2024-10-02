@@ -24,7 +24,7 @@
 </p>
 
 - 🌱 I’m currently learning **MERN stack web development**
-- - 💬 Ask me about
+-  💬 Ask me about
 **HTML, CSS, tailwind CSS, bootstrap, javascript**
 - 📫 How to reach me
 **muktadir1280@gmail.com**
